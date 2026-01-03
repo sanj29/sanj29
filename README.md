@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I am Sanjay Singh:
 🔭 I’m currently working on<br>Building scalable QA automation frameworks and experimenting with AI-assisted testing workflows.<br><br>👯 I’m looking to collaborate on<br>Test automation, Playwright/Python frameworks, and practical GenAI use cases in QA.<br><br>🤝 I’m looking for help with<br>Advanced LLM agents, autonomous test orchestration, and AI-driven debugging techniques.<br><br>🌱 I’m currently learning<br>LLM internals, AI agents, probability chaining, and compute-efficient model design.<br><br>💬 Ask me about<br>QA architecture, automation strategy, CI/CD, Playwright, Python, and AI in testing.<br><br>⚡ Fun fact<br>I enjoy breaking systems to improve them — and sometimes build mini-GPTs just to understand how they think 😄
 
 
